@@ -1,4 +1,4 @@
-# PersonalBudgetAngular
+# PersonalBudgetReact
 ## Available Scripts ## Frontend 
 
 In the project directory, you can run:
